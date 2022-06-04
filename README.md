@@ -2,7 +2,7 @@
 
 Hi everyone!
 
-This repository contains the files hand_detect.py and dronefly.py the scripts used to run the detections and integrate with dronekit and sitl to control the drone.
+This repository contains the files hand_detect.py and dronefly.py the scripts used to run detections on hands and integrate those detections with DroneKit and SITL to control the drone.
 Made certain modifications by which the drone can be controlled in the following 8 ways using the following hand gestures: 
 1. Forward - Touch Thumb to Index Finger
 2. Backward - Touch Thumb to Middle Finger
